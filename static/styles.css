@@ -1,0 +1,73 @@
+/* makes sizing simpler */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+/* remove default spacing */
+/* force styling of type through styling, rather than elements */
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  border: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+}
+/* dark mode user-agent-styles */
+html {
+  color-scheme: dark light;
+}
+/* min body height */
+body {
+  min-height: 90vh;
+}
+/* responsive images/videos */
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+body {
+  width: 95vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  margin: 1rem auto;
+}
+.header {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-img {
+  height: 64px;
+  width: 64px;
+  border-radius: 50%;
+}
+.header-hdg {
+  font-size: 2.4rem;
+  text-align: right;
+}
+.menu {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 1.6rem auto;
+  gap: 10px;
+  justify-content: flex-end;
+}
+.footer {
+  text-align: center;
+  font-size: 0.8rem;
+}
+.icon {
+  filter: invert();
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}

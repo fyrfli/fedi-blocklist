@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Fediverse Blocklist Database</title>
+
+        <link rel="stylesheet/less" type="text/css" href={{ url_for("static", filename="styles.less" ) }} />
+        <script src="https://cdn.jsdelivr.net/npm/less@4"></script>
+
+        <link rel="shortcut icon" href={{ url_for('static', filename="favicon.png" ) }} type="image/x-icon">
+    </head>
+
+    <body>
+        <header class="header">
+            <img src="https://cdn.fyrfli.link/i/hat-small.png" alt="" class="header-img">
+            <h1 class="header-hdg">Fediverse Blocklist Database</h1>
+        </header>
+        <main class="container">
+            <aside>
+                <nav>
+                    <ul class="menu">
+                        <li class="menu-item"><a href="/register">Register</a></li>
+                        <li class="menu-item"><a href="/login">Login</a></li>
+                        <li class="menu-item"><a href="/">Index</a></li>
+                        <li class="menu-item"><a href="/logout">Logout</a></li>
+                    </ul>
+                </nav>
+            </aside>
+            {% block content%}{% endblock %}
+        </main>
+        <footer class="footer">
+            &copy;{{ the_year }} Camille ( <a href="https://fyrfli.dev/fyrfli" target="_blank" rel="noopener noreferrer">@fyrfli</a> ) Frantz <br>
+            Proudly powered by
+            <a href="https://flask.palletsprojects.com">
+                <img src={{ url_for('static', filename='cib-flask.svg' ) }} class="icon" alt="icon for the python flask project">
+                Flask</a>
+        </footer>
+
+    </body>
+
+</html>
