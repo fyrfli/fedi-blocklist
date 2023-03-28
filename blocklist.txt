@@ -3,15 +3,20 @@
 *.mastodonhub.com
 *.misskey-forkbomb.cf
 *.repl.co
+<<<<<<< HEAD
 *flockingbird.social
 *ignorelist*
 *kazar.ma
 *outerkosm.us
 *tweepsmap.com
+=======
+*ignorelist*
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 activism.openworlds.info
 affiliates.social
 akko.disqordia.space
 akko.saturno.black
+akko.disqordia.space
 alive.bar
 animalliberation.social
 anime.website
@@ -32,7 +37,10 @@ cawfee.club
 censorship.icu
 cesko.social
 chungus.cc
+<<<<<<< HEAD
 cloudflare.social
+=======
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 cloudisland.online
 club.darknight-coffee.org
 clubcyberia.co
@@ -52,7 +60,10 @@ dogfood.social
 domo.cafe
 eientei.org
 eldritch.cafe
+<<<<<<< HEAD
 emaw.social
+=======
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 eveningzoo.]club
 f.haeder.net
 fedi.z0ne.moe
@@ -90,11 +101,16 @@ honkwerx.tech
 hornyjail.pro
 iddqd.social
 ieji.de
+<<<<<<< HEAD
 infosec.exchange
 ioc.exchange
 jojo.singleuser.club
 jorts.horse
 kibitz.cloud
+=======
+jojo.singleuser.club
+jorts.horse
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 kinky.business
 kinkyelephant.com
 kiwifarms.cc
@@ -113,11 +129,16 @@ m.anirloli.dev
 masochi.st
 masthead.social
 mastinator.com
+<<<<<<< HEAD
 mastodon.chaika.me
 mastodon.city
 mastodon.gatewayy.net
 mastodong[.]lol
 md.tret.jp
+=======
+mastodon.city
+mastodong[.]lol
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 memehub.eu
 meta-tube.de
 midnightride.rs
@@ -127,9 +148,13 @@ monads.online
 morale.ch
 mstdn.io
 mstdn.jp
+<<<<<<< HEAD
 mstdn.party
 mstdnandchill.fun
 mstevens.uk
+=======
+mstdnandchill.fun
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 nazi.social
 neckbeard.xyz
 newsie.social
@@ -197,7 +222,10 @@ sneed.social
 snowdin.town
 soc.mahodou.moe
 soc.ua-fediland.de
+<<<<<<< HEAD
 social.bacondarwin.uk
+=======
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
 social.beepboop.ga
 social.byoblu.com
 social.cosmick9.net
@@ -257,5 +285,9 @@ wurm.host
 www.bigguys.club
 xn--p1abe3d.xn--80asehdb
 yggdrasil.social
+<<<<<<< HEAD
 youjo.love
 zztails.gay
+=======
+youjo.love
+>>>>>>> fa5222617cb05a15264f72b2e2c459a2aa333298
