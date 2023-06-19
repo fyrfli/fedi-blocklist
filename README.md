@@ -8,3 +8,10 @@ I've managed to cobble together a list from several sources of instances that ar
 [2]: https://github.com/fediblock/fediblock
 
 I am supplying it here for others in case they want to use my list. Time and motivation willing, I will create a more readable list for this later on but for now, this is just a text file with one domain per line
+
+
+---
+
+there is a python script that will read the .txt file and create a .csv file. at the moment, it's very basic and may need more tweaking. 
+
+stay tuned.
