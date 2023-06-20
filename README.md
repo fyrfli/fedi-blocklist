@@ -17,3 +17,5 @@ to create a mastodon equivalent file, get on your command line and run:
 ```
 cat blocklist.txt | sed -e 's/$/,suspend,true,true,true/' >> new_file.csv
 ```
+
+or just use the supplied csv file.
