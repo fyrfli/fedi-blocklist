@@ -12,6 +12,8 @@ I am supplying it here for others in case they want to use my list. Time and mot
 
 ---
 
-there is a python script that will read the .txt file and create a .csv file. at the moment, it's very basic and may need more tweaking. 
+to create a mastodon equivalent file, get on your command line and run:
 
-stay tuned.
+```
+cat blocklist.txt | sed -e 's/$/,suspend,true,true,true/' >> new_file.csv
+```
