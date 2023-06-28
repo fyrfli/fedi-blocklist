@@ -50,6 +50,7 @@ cawfee.club
 censorship.icu
 cesko.social
 chungus.cc
+civiq.social
 clew.lol
 cloudflare.social
 cloudisland.online
@@ -83,6 +84,7 @@ eatthebugs.social
 eientei.org
 eldritch.cafe
 elementality.org
+emacs.sh
 emaw.social
 eveningzoo.]club
 eveningzoo.club
@@ -151,6 +153,7 @@ kinky.business
 kinkyelephant.com
 kitsunemimi.club
 kiwifarms.cc
+kolektiva.social
 kompost.cz
 kurosawa.moe
 lain.com
@@ -177,11 +180,14 @@ m.anirloli.dev
 mahodou.moe
 makemysarcophagus.com
 maladaptive.art
+marsey.moe
 masochi.st
 masthead.social
 mastinator.com
+masto.ai
 mastodon.chaika.me
 mastodon.city
+mastodon.coffee
 mastodon.gatewayy.net
 mastodon.lolicon
 mastodong[.]lol
@@ -202,6 +208,7 @@ mouse.services
 mstdn.io
 mstdn.jp
 mstdn.party
+mstdn.social
 mstdnandchill.fun
 mstevens.uk
 mugicha.club
@@ -211,7 +218,6 @@ nazi.social
 neckbeard.xyz
 needs.vodka
 neenster.org
-newsie.social
 nicecrew.digital
 nnia.space
 noagendasocial.com
@@ -229,6 +235,7 @@ outpoa.st
 parler.socialq.club
 pawlicker.com
 pawoo.net
+payfrit.com
 paypig.org
 pedo.school
 peertube.sharivegas.com
@@ -285,6 +292,7 @@ sayit.world
 schwartzwelt.xyz
 seal.cafe
 searchtodon.social
+sh.itjust.works
 shigusegubu.club
 shitpost.cloud
 shitposter.club
@@ -365,6 +373,7 @@ truthsocialpro.org
 tube.kenfm.de
 tube.querdenken-711.de
 tweets.makerbox.net
+universeodon.com
 urchan.org
 varishangout.net
 video.nobodyhasthe.biz
