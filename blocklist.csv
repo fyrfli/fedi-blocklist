@@ -1,4 +1,3 @@
-domain,severity,reject_media,reject_reports,obfuscate
 *.10minutepleroma.com,suspend,true,true,true
 *.activitypub-troll.cf,suspend,true,true,true
 *.mastodonhub.com,suspend,true,true,true
@@ -27,6 +26,8 @@ annihilation.social,suspend,true,true,true
 anon-kenkai.com,suspend,true,true,true
 app.kenhbit.com,suspend,true,true,true
 asbestos.cafe,suspend,true,true,true
+awkward.company,suspend,true,true,true
+badly.co,suspend,true,true,true
 bae.st,suspend,true,true,true
 bajax.us,suspend,true,true,true
 banepo.st,suspend,true,true,true
@@ -39,6 +40,7 @@ bgp.social,suspend,true,true,true
 bikeshed.party,suspend,true,true,true
 bitcoinhackers.org,suspend,true,true,true
 bittube.video,suspend,true,true,true
+blob.cat,suspend,true,true,true
 boks.moe,suspend,true,true,true
 brainsoap.net,suspend,true,true,true
 breastmilk.club,suspend,true,true,true
@@ -51,6 +53,7 @@ cawfee.club,suspend,true,true,true
 censorship.icu,suspend,true,true,true
 cesko.social,suspend,true,true,true
 chungus.cc,suspend,true,true,true
+civiq.social,suspend,true,true,true
 clew.lol,suspend,true,true,true
 cloudflare.social,suspend,true,true,true
 cloudisland.online,suspend,true,true,true
@@ -61,6 +64,7 @@ comfyboy.club,suspend,true,true,true
 contrapointsfan.club,suspend,true,true,true
 counter.fedi.live,suspend,true,true,true
 couter.social,suspend,true,true,true
+crucible.world,suspend,true,true,true
 cum.camp,suspend,true,true,true
 cum.salon,suspend,true,true,true
 cunny.finance,suspend,true,true,true
@@ -78,12 +82,14 @@ desupost.soy,suspend,true,true,true
 detroitriotcity.com,suspend,true,true,true
 devtube.dev-wiki.de,suspend,true,true,true
 dingdash.com,suspend,true,true,true
+dobbs.town,suspend,true,true,true
 dogfood.social,suspend,true,true,true
 domo.cafe,suspend,true,true,true
 eatthebugs.social,suspend,true,true,true
 eientei.org,suspend,true,true,true
 eldritch.cafe,suspend,true,true,true
 elementality.org,suspend,true,true,true
+emacs.sh,suspend,true,true,true
 emaw.social,suspend,true,true,true
 eveningzoo.]club,suspend,true,true,true
 eveningzoo.club,suspend,true,true,true
@@ -112,6 +118,7 @@ freewahaextremist.wtf,suspend,true,true,true
 frennet.link,suspend,true,true,true
 froth.zone,suspend,true,true,true
 fulltermprivacy.com,suspend,true,true,true
+furcel.club,suspend,true,true,true
 furry.lgbt,suspend,true,true,true
 gab.com,suspend,true,true,true
 gameliberty.club,suspend,true,true,true
@@ -152,6 +159,7 @@ kinky.business,suspend,true,true,true
 kinkyelephant.com,suspend,true,true,true
 kitsunemimi.club,suspend,true,true,true
 kiwifarms.cc,suspend,true,true,true
+kolektiva.social,suspend,true,true,true
 kompost.cz,suspend,true,true,true
 kurosawa.moe,suspend,true,true,true
 lain.com,suspend,true,true,true
@@ -162,6 +170,7 @@ leftychan.net,suspend,true,true,true
 lewdieheaven.com,suspend,true,true,true
 lgbtfree.zone,suspend,true,true,true
 liberdon.com,suspend,true,true,true
+libertynode.net,suspend,true,true,true
 libranet.de,suspend,true,true,true
 libre.video,suspend,true,true,true
 librenet.co.za,suspend,true,true,true
@@ -178,11 +187,14 @@ m.anirloli.dev,suspend,true,true,true
 mahodou.moe,suspend,true,true,true
 makemysarcophagus.com,suspend,true,true,true
 maladaptive.art,suspend,true,true,true
+marsey.moe,suspend,true,true,true
 masochi.st,suspend,true,true,true
 masthead.social,suspend,true,true,true
 mastinator.com,suspend,true,true,true
 mastodon.chaika.me,suspend,true,true,true
 mastodon.city,suspend,true,true,true
+mastodon.cloud,suspend,true,true,true
+mastodon.coffee,suspend,true,true,true
 mastodon.gatewayy.net,suspend,true,true,true
 mastodon.lolicon,suspend,true,true,true
 mastodong[.]lol,suspend,true,true,true
@@ -212,7 +224,6 @@ nazi.social,suspend,true,true,true
 neckbeard.xyz,suspend,true,true,true
 needs.vodka,suspend,true,true,true
 neenster.org,suspend,true,true,true
-newsie.social,suspend,true,true,true
 nicecrew.digital,suspend,true,true,true
 nnia.space,suspend,true,true,true
 noagendasocial.com,suspend,true,true,true
@@ -223,13 +234,16 @@ noc.social,suspend,true,true,true
 nro.io,suspend,true,true,true
 ns.auction,suspend,true,true,true
 nukem.biz,suspend,true,true,true
+nya.house,suspend,true,true,true
 obo.sh,suspend,true,true,true
+occultist.space,suspend,true,true,true
 onionfarms.org,suspend,true,true,true
 oursocialism.today,suspend,true,true,true
 outpoa.st,suspend,true,true,true
 parler.socialq.club,suspend,true,true,true
 pawlicker.com,suspend,true,true,true
 pawoo.net,suspend,true,true,true
+payfrit.com,suspend,true,true,true
 paypig.org,suspend,true,true,true
 pedo.school,suspend,true,true,true
 peertube.sharivegas.com,suspend,true,true,true
@@ -251,11 +265,13 @@ pleroma.nobodyhasthe.biz,suspend,true,true,true
 pleroma.skyshanty.xyz,suspend,true,true,true
 pleroma.soykaf.com,suspend,true,true,true
 pleroma.us,suspend,true,true,true
+pleromer.net,suspend,true,true,true
 pmth.us,suspend,true,true,true
 poa.st,suspend,true,true,true
 poast.org,suspend,true,true,true
 poast.tv,suspend,true,true,true
 pokemon.men,suspend,true,true,true
+pol.social,suspend,true,true,true
 pornssd.com,suspend,true,true,true
 poster.place,suspend,true,true,true
 posting.lolicon.rocks,suspend,true,true,true
@@ -286,6 +302,7 @@ sayit.world,suspend,true,true,true
 schwartzwelt.xyz,suspend,true,true,true
 seal.cafe,suspend,true,true,true
 searchtodon.social,suspend,true,true,true
+sh.itjust.works,suspend,true,true,true
 shigusegubu.club,suspend,true,true,true
 shitpost.cloud,suspend,true,true,true
 shitposter.club,suspend,true,true,true
@@ -302,6 +319,7 @@ skippers-bin.com,suspend,true,true,true
 skyshanty.xyz,suspend,true,true,true
 slash.cl,suspend,true,true,true
 sleepy.cafe,suspend,true,true,true
+sm.shaw.app,suspend,true,true,true
 smuglo.li,suspend,true,true,true
 sneed.social,suspend,true,true,true
 snowdin.town,suspend,true,true,true
@@ -354,6 +372,7 @@ thecitadel.social,suspend,true,true,true
 theduran.icu,suspend,true,true,true
 thepostearthdestination.com,suspend,true,true,true
 theres.life,suspend,true,true,true
+threads.net,suspend,true,true,true
 tkammer.de,suspend,true,true,true
 toot.canberrasocial.net,suspend,true,true,true
 toot.community,suspend,true,true,true
@@ -366,6 +385,7 @@ truthsocialpro.org,suspend,true,true,true
 tube.kenfm.de,suspend,true,true,true
 tube.querdenken-711.de,suspend,true,true,true
 tweets.makerbox.net,suspend,true,true,true
+universeodon.com,suspend,true,true,true
 urchan.org,suspend,true,true,true
 varishangout.net,suspend,true,true,true
 video.nobodyhasthe.biz,suspend,true,true,true

@@ -26,6 +26,8 @@ annihilation.social
 anon-kenkai.com
 app.kenhbit.com
 asbestos.cafe
+awkward.company
+badly.co
 bae.st
 bajax.us
 banepo.st
@@ -38,6 +40,7 @@ bgp.social
 bikeshed.party
 bitcoinhackers.org
 bittube.video
+blob.cat
 boks.moe
 brainsoap.net
 breastmilk.club
@@ -61,6 +64,7 @@ comfyboy.club
 contrapointsfan.club
 counter.fedi.live
 couter.social
+crucible.world
 cum.camp
 cum.salon
 cunny.finance
@@ -78,6 +82,7 @@ desupost.soy
 detroitriotcity.com
 devtube.dev-wiki.de
 dingdash.com
+dobbs.town
 dogfood.social
 domo.cafe
 eatthebugs.social
@@ -113,6 +118,7 @@ freewahaextremist.wtf
 frennet.link
 froth.zone
 fulltermprivacy.com
+furcel.club
 furry.lgbt
 gab.com
 gameliberty.club
@@ -164,6 +170,7 @@ leftychan.net
 lewdieheaven.com
 lgbtfree.zone
 liberdon.com
+libertynode.net
 libranet.de
 libre.video
 librenet.co.za
@@ -184,9 +191,9 @@ marsey.moe
 masochi.st
 masthead.social
 mastinator.com
-masto.ai
 mastodon.chaika.me
 mastodon.city
+mastodon.cloud
 mastodon.coffee
 mastodon.gatewayy.net
 mastodon.lolicon
@@ -208,7 +215,6 @@ mouse.services
 mstdn.io
 mstdn.jp
 mstdn.party
-mstdn.social
 mstdnandchill.fun
 mstevens.uk
 mugicha.club
@@ -228,7 +234,9 @@ noc.social
 nro.io
 ns.auction
 nukem.biz
+nya.house
 obo.sh
+occultist.space
 onionfarms.org
 oursocialism.today
 outpoa.st
@@ -257,11 +265,13 @@ pleroma.nobodyhasthe.biz
 pleroma.skyshanty.xyz
 pleroma.soykaf.com
 pleroma.us
+pleromer.net
 pmth.us
 poa.st
 poast.org
 poast.tv
 pokemon.men
+pol.social
 pornssd.com
 poster.place
 posting.lolicon.rocks
@@ -309,6 +319,7 @@ skippers-bin.com
 skyshanty.xyz
 slash.cl
 sleepy.cafe
+sm.shaw.app
 smuglo.li
 sneed.social
 snowdin.town
@@ -361,6 +372,7 @@ thecitadel.social
 theduran.icu
 thepostearthdestination.com
 theres.life
+threads.net
 tkammer.de
 toot.canberrasocial.net
 toot.community
