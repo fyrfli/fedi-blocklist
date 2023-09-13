@@ -1,0 +1,476 @@
+
+{
+  "group": ":pleroma",
+  "key": ":mrf_simple",
+  "value": [
+    {
+      "tuple": [
+        ":media_removal",
+        [
+          {
+            "tuple": [
+              "mastodon.social",
+              "CSAM"
+            ]
+          },
+          {
+            "tuple": [
+              "mastodon.world",
+              "CSAM"
+            ]
+          },
+          {
+            "tuple": [
+              "mastodon.online",
+              "CSAM"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "tuple": [
+        ":followers_only",
+        [
+          {
+            "tuple": [
+              "mastodon.social",
+              "cos too big to fail or something"
+            ]
+          },
+          {
+            "tuple": [
+              "mastodon.online",
+              "cos too big to fail or something"
+            ]
+          },
+          {
+            "tuple": [
+              "mastodon.world",
+              "cos too big to fail or something"
+            ]
+          },
+          {
+            "tuple": [
+              "fosstodon.org",
+              "moderation bullshit"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "tuple": [
+        ":reject",
+        [
+
+		{ "tuple": [ "10minutepleroma.com", "Spam, potential for abuse" ] }
+		,{ "tuple": [ "13bells.com", "Edgelord" ] }
+		,{ "tuple": [ "1611.social", "Queerphobia; TERFs, Far-right extremism, religious extremism; misinformation., Federates with the usual suspects, Edgelord" ] }
+		,{ "tuple": [ "4aem.com", "" ] }
+		,{ "tuple": [ "NoAgenda.social", "A popular free speech instance with no moderation that allows all manner of bigotry and hate speech." ] }
+		,{ "tuple": [ "Pizzaf.art", "Excessive shitposting; no moderation;  too extreme for chudbuds, KiwiFarms/KF affiliation., Hate speech, Nazi, Edgelord" ] }
+		,{ "tuple": [ "Raspberrypi.social", "Moderation issues, Poor moderator conduct, Incompetent moderation" ] }
+		,{ "tuple": [ "activism.openworlds.info", "Federates with instances that violate our CoC/ToS, such as Gab, Kiwifarms, etc., harassment, doxing, Edgelord" ] }
+		,{ "tuple": [ "activitypub-troll.cf", "Spam, Spam/Harassment, DDoS attacks., Network Disruption, Trolling, spam, DoS attacks" ] }
+		,{ "tuple": [ "aethy.com", "Strong likelihood of CSAM and CSAM-adjacent material., Inappropriate content, pedophilia, Underagedni (aethy.com,h5q.net) - user count: 1dni (aethy.com)dni (aethy.com) - user count: 6dni (earfolds.com,aethy.com,blimps.xyz,worm.pink)dni (aethy.com) - user count: 8dni (den.den.nohost.me,aethy.com) - user count: 1" ] }
+		,{ "tuple": [ "affiliates.social", "" ] }
+		,{ "tuple": [ "akko.disqordia.space", "racism, channer stuff" ] }
+		,{ "tuple": [ "akko.saturno.black", "Federates with / endorses instances that host racism and support pedophilia " ] }
+		,{ "tuple": [ "alive.bar", "" ] }
+		,{ "tuple": [ "animalliberation.social", "" ] }
+		,{ "tuple": [ "anime.website", "Inappropriate content, EdgelordPedos, Federates with the usual suspects, freeze peach, admin ran anime.website (pedo, fascist), Edgelord" ] }
+		,{ "tuple": [ "annihilation.social", "A free speech instance federated with known bigoted instances that traffic in racist, white nationalist, homophobia, transphobia, antisemitism, and edge lord behaviors. There is also little to no moderation by choice. Admitted to harassing people with leftist political perspectives. " ] }
+		,{ "tuple": [ "anon-kenkai.com", "Edgelord" ] }
+		,{ "tuple": [ "app.kenhbit.com", "" ] }
+		,{ "tuple": [ "asbestos.cafe", "Lax federation policy/channers, Federates with toxic/racist/homophobic/alt-right instances, tasteless offensive 'jokes', not an edge lord but a self-confessed 'edgebaron'alt fedi (bubbletea.dev,cachapa.xyz,airis.work,asbestos.cafe,waifuism.life,pengi-san.moe,beefyboys.win,bae.st,whinge.town) - user count: 1alt fedi (asbestos.cafe,disqordia.space)alt fedi (plus.st,rdrama.cc,shitposter.club,udongein.xyz,asbestos.cafe,blob.cat,disqordia.space,bae.st)alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1" ] }
+		,{ "tuple": [ "awkward.company", "" ] }
+		,{ "tuple": [ "badly.co", "Reason: freeze peach, chummy with transphobes" ] }
+		,{ "tuple": [ "bae.st", "Inappropriate content, Discrimination, racism, free speech zone, Moderation / safety concerns., Hate Speech, 4chan qanon stuffFederates with the usual suspects, dark fedi (bae.st, poa.st)dark fedi (bae.st, poridge.club)alt fedi (bikeshed.party,mastodon.ml,bae.st,mugicha.club,disqordia.space)alt fedi (bubbletea.dev,cachapa.xyz,airis.work,asbestos.cafe,waifuism.life,pengi-san.moe,beefyboys.win,bae.st,whinge.town) - user count: 1alt fedi (sanfranciscan.org,psion.co,udongein.xyz,bae.st,lizards.live) - user count: 1alt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)alt fedi (qoto.org,bae.st,ajin.la) - user count: 1alt fedi (awoo.fai.st,disqordia.space,thejar.club,linux.pizza,brotka.st,udongein.xyz,mastodong.lol,hermitmountain.top,lain.gay,blob.cat,worm.pink,bae.st,letsalllovela.in)dni (stereophonic.space,posting.lolicon.rocks,bae.st,lain.com); alt fedi (inferencium.net,stereophonic.space,posting.lolicon.rocks,bae.st,valkyrie.world,lain.com,gameliberty.club)alt fedi (plus.st,rdrama.cc,shitposter.club,udongein.xyz,asbestos.cafe,blob.cat,disqordia.space,bae.st)alt fedi (bae.st)alt fedi (bae.st,federated.fun,merovingian.club,spinster.xyz,poa.st) - user count: 2alt fedi (bae.st,skinnyver.se,lucasvl.nl,udongein.xyz,waifuism.life)alt fedi (outerheaven.club,bae.st)alt fedi (bae.st) - user count: 5alt fedi (blob.cat,minidisc.tokyo,catposter.club,varishangout.net,shitposter.club,goreslut.xyz,bae.st,valkyrie.world,starnix.network) - user count: 1alt fedi (bae.st)alt fedi (bae.st)alt fedi (bae.st)alt fedi (bae.st) - user count: 1alt fedi (bae.st)alt fedi (mugicha.club,bae.st) - user count: 5alt fedi (fluf.club,lolicon.rocks,lizards.live,cum.salon,poa.st,bae.st) - user count: 2" ] }
+		,{ "tuple": [ "bajax.us", "abuse, harrassment, Edgelord" ] }
+		,{ "tuple": [ "banepo.st", "Homophobia / transphobia., Edgelord" ] }
+		,{ "tuple": [ "baraag.net", "Trusted Block List, Strong likelihood of CSAM and CSAM-adjacent material., Inappropriate content, hosting pedophilia, Free speech instancedni (baraag.net)dni (baraag.net) - user count: 6" ] }
+		,{ "tuple": [ "based.directory", "" ] }
+		,{ "tuple": [ "beefyboys.win", "Hate speech, Harassment, misinformation, generally bad., Hate Speech, Edgelordalt fedi (bubbletea.dev,cachapa.xyz,airis.work,asbestos.cafe,waifuism.life,pengi-san.moe,beefyboys.win,bae.st,whinge.town) - user count: 1" ] }
+		,{ "tuple": [ "beepboop.ga", "Edgelord" ] }
+		,{ "tuple": [ "berserker.town", "Hate speech, Federating with 'free speech' instances, hosting ableist, transphobic, fascist content, Edgelord" ] }
+		,{ "tuple": [ "bgp.social", "Wildebeest" ] }
+		,{ "tuple": [ "bikeshed.party", "Transphobia, Harassment, federating with Gab, etc., Edgelordalt fedi (bikeshed.party,mastodon.ml,bae.st,mugicha.club,disqordia.space)" ] }
+		,{ "tuple": [ "bitcoinhackers.org", "Spam/Crypto, Free speech extremism., Crypto spam and 'free speech safe space'" ] }
+		,{ "tuple": [ "bittube.video", "Misinformation and conspiracy theories" ] }
+		,{ "tuple": [ "blob.cat", "free speech zone, freespeechextremist.com association, federating with Kiwifarms, Edgelordalt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)alt fedi (awoo.fai.st,disqordia.space,thejar.club,linux.pizza,brotka.st,udongein.xyz,mastodong.lol,hermitmountain.top,lain.gay,blob.cat,worm.pink,bae.st,letsalllovela.in)alt fedi (plus.st,rdrama.cc,shitposter.club,udongein.xyz,asbestos.cafe,blob.cat,disqordia.space,bae.st)alt fedi (blob.cat,minidisc.tokyo,catposter.club,varishangout.net,shitposter.club,goreslut.xyz,bae.st,valkyrie.world,starnix.network) - user count: 1alt fedi (hermitmountain.top,outerheaven.club,blob.cat,lizards.live,suya.place,poa.st,stereophonic.space)dni (pawoo.net,shota.house,blob.cat)alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1" ] }
+		,{ "tuple": [ "boks.moe", "" ] }
+		,{ "tuple": [ "brainsoap.net", "horrible edgelords, Moderation / safety concerns." ] }
+		,{ "tuple": [ "breastmilk.club", "no moderation; federation with nazis, Racism, antisemitism; admin accounts do not align with our values., racism, harassment, Federates with the usual suspects, Edgelordalt fedi (minidisc.tokyo,poa.st,shitposter.club,stereophonic.space,brotka.st,lain.com,udongein.xyz,suya.place,breastmilk.club) - user count: 4alt fedi (seal.cafe,breastmilk.club,minidisc.tokyo,poa.st) - user count: 3alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1" ] }
+		,{ "tuple": [ "brighteon.social", "Conspiracy theories, Misinformation and conspiracy theories, Harassment, Conspiracism, Radical right-wing instance, Edgelord" ] }
+		,{ "tuple": [ "buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life", "The name says it all., I mean" ] }
+		,{ "tuple": [ "carnivore.social", "Conspiracies, MAGA / truthsocial crowd" ] }
+		,{ "tuple": [ "cassone.social", "" ] }
+		,{ "tuple": [ "catgirl.life", "Harassment, Inappropriate content" ] }
+		,{ "tuple": [ "cawfee.club", "right-wing douchebags; federates with nazis; freezepeach, Moderation / safety concerns., Federates with the usual suspects, dark fedi (cawfee.club, poa.st, nicecrew.digital)This instance involves hate speech, white nationalist ideology, racism, and ableism.  It also appears to have no moderation policy and connects with many other sites that allow hateful behavior.alt fedi (cawfee.club)alt fedi (disqordia.space,cawfee.club)alt fedi (cawfee.club) - user count: 1" ] }
+		,{ "tuple": [ "censorship.icu", "" ] }
+		,{ "tuple": [ "cesko.social", "Wildebeest" ] }
+		,{ "tuple": [ "chungus.cc", "ableism, transphobia, racism, slurs" ] }
+		,{ "tuple": [ "civiq.social", "" ] }
+		,{ "tuple": [ "clew.lol", "" ] }
+		,{ "tuple": [ "cloudflare.social", "" ] }
+		,{ "tuple": [ "cloudisland.online", "Impersonation., Impersonating cloudisland.nz" ] }
+		,{ "tuple": [ "club.darknight-coffee.org", "" ] }
+		,{ "tuple": [ "clubcyberia.co", "Anti-semitism; no real moderation, Harassment, hate speech, Edgelord" ] }
+		,{ "tuple": [ "collapsitarian.io", "Reason: anti-moderation, freeze peach, channers, Edgelord" ] }
+		,{ "tuple": [ "comfyboy.club", "Discrimination, racism, Racism, antisemitism; moderation / safety concerns., free speech, etc" ] }
+		,{ "tuple": [ "contrapointsfan.club", "Hate speech" ] }
+		,{ "tuple": [ "counter.fedi.live", "" ] }
+		,{ "tuple": [ "couter.social", "" ] }
+		,{ "tuple": [ "crucible.world", "no moderation, Transphobia, Edgelord" ] }
+		,{ "tuple": [ "cum.camp", "Harassment, hate speech, racism, spam., harassment, bigotry, Edgelord" ] }
+		,{ "tuple": [ "cum.salon", "Hate speech, Harassment, Homophobia, The name says it all; harassment, spam, inappropriate untagged NSFW content., uncensored porn, slursalt fedi (fluf.club,lolicon.rocks,lizards.live,cum.salon,poa.st,bae.st) - user count: 2" ] }
+		,{ "tuple": [ "cunny.finance", "" ] }
+		,{ "tuple": [ "cupoftea.social", "klassistische kackscheiße" ] }
+		,{ "tuple": [ "cutieverse.social", "FediFenced" ] }
+		,{ "tuple": [ "cybercriminal.eu", "A free speech instance that does not defederate with known bigoted instances and encourages harassment and block evasion.  Also known for spamming the fediblock tag with nonsense in an attempt to discredit it. " ] }
+		,{ "tuple": [ "cyberfuck.club", "" ] }
+		,{ "tuple": [ "d-fens.systems", "Datamining, Harassment, kiwifarms" ] }
+		,{ "tuple": [ "darknight-coffee.org", "Single-person instance, person does not align with our values." ] }
+		,{ "tuple": [ "decayable.ink", "A free speech instance that aggressively engages in hate speech and abuse across various points of bigotry: transphobia, racism, ableism, homophobia, etc.  There appears to be no moderation, so all manner of hate speech is encouraged.   alt fedi (valkyrie.world,decayable.ink,ryona.agency) - user count: 5" ] }
+		,{ "tuple": [ "defcon.social", "" ] }
+		,{ "tuple": [ "degenerates.fail", "" ] }
+		,{ "tuple": [ "dembased.xyz", "" ] }
+		,{ "tuple": [ "desupost.soy", "" ] }
+		,{ "tuple": [ "detroitriotcity.com", "Hate speech, Public timeline filled with hate speech., Harassment, racism, homophobia, etc" ] }
+		,{ "tuple": [ "devtube.dev-wiki.de", "Vídeos com teorias de conspiração sobre covid-19" ] }
+		,{ "tuple": [ "dingdash.com", "" ] }
+		,{ "tuple": [ "dobbs.town", "Weird Earth Blocklist: Hate speech, etc., Federates with noagenda, shitposter.club, Edgelord" ] }
+		,{ "tuple": [ "dogfood.social", "Wildebeest" ] }
+		,{ "tuple": [ "domo.cafe", "Wildebeest" ] }
+		,{ "tuple": [ "eatthebugs.social", "Anti-semitism, Reason: rampant transphobia, antisemitism, channerism, freeze peach., Edgelord" ] }
+		,{ "tuple": [ "eientei.org", "Hate speech, Racism, Homophobia, anti-semitism, Harassment, racism., racism, Edgelordalt fedi (poa.st,lovesick.social,linux.pizza,mastodon.ml,eientei.org,outerheaven.club,kitsunemimi.club,chudbuds.lol,lizards.live,shitposter.club)" ] }
+		,{ "tuple": [ "eldritch.cafe", "" ] }
+		,{ "tuple": [ "elementality.org", "Edgelord" ] }
+		,{ "tuple": [ "emacs.sh", "" ] }
+		,{ "tuple": [ "emaw.social", "Wildebeest" ] }
+		,{ "tuple": [ "eveningzoo.]club", "" ] }
+		,{ "tuple": [ "eveningzoo.club", "Hate speech, Hate speech and Harassment, Racism, antisemitism; admin accounts do not align with our values., free speech, conspiracy theory, racism, antisemitism, fascism, Edgelordconspiracy (noagendasocial.com,eveningzoo.club,freeatlantis.com)" ] }
+		,{ "tuple": [ "f.haeder.net", "Discrimination, Single-person instance, person does not align with our values., Reason: transphobia, Edgelord" ] }
+		,{ "tuple": [ "fedi.cybercriminal.eu", "https://cathode.church/@moderation/109930584338140649" ] }
+		,{ "tuple": [ "fedi.z0ne.moe", "" ] }
+		,{ "tuple": [ "feedseer.com", "" ] }
+		,{ "tuple": [ "firedragonstudios.com", "" ] }
+		,{ "tuple": [ "firefaithfellowship.com", "" ] }
+		,{ "tuple": [ "fiume.club", "" ] }
+		,{ "tuple": [ "flockingbird.social", "" ] }
+		,{ "tuple": [ "fluf.club", "Lax Moderation, Hate Speech, Edgelordalt fedi (fluf.club,lolicon.rocks,lizards.live,cum.salon,poa.st,bae.st) - user count: 2" ] }
+		,{ "tuple": [ "foxfam.club", "Edgelord" ] }
+		,{ "tuple": [ "freak.university", "Inappropriate content, Strong likelihood of CSAM and CSAM-adjacent material., hosting pedophilia, Edgelorddni (freak.university,mapsupport.de,nnia.space) - user count: 3" ] }
+		,{ "tuple": [ "freeatlantis.com", "A free speech site that traffics in misinformation and conspiracy theories, white nationalism, and various forms of bigotry.  It also federates with many of the most hateful instances on the fed that traffic in hate and harassment.conspiracy (noagendasocial.com,abraham.su,freeatlantis.com)conspiracy (noagendasocial.com,eveningzoo.club,freeatlantis.com)" ] }
+		,{ "tuple": [ "freecumextremist.com", "Hate speech, Discrimination, harassment, free speech zone, Alt kiwifarms instance" ] }
+		,{ "tuple": [ "freedomofpress.rocks", "" ] }
+		,{ "tuple": [ "freedomstrike.org", "free speech, conspiracy theory, etc" ] }
+		,{ "tuple": [ "freemarketbastard.theburning.world", "" ] }
+		,{ "tuple": [ "freesoftwareextremist.com", "free speech zone, Edgelord" ] }
+		,{ "tuple": [ "freespeech.firedragonstudios.com", "Trusted Block List, Free speech instance, little to no moderation oversight, lack of CoC" ] }
+		,{ "tuple": [ "freespeech.group", "Alt-right rhetoric, conspiracies, etc, Edgelord" ] }
+		,{ "tuple": [ "freespeechextremist.com", "free speech zone, freespeechextremist.com association, federating with Kiwifarms, Edgelordfree speech zone, freespeechextremist.com association, pedophilia defendersHate speech, Trusted Block List, Edgelordfreespeechextremist.com association, federating with Kiwifarmsfriends of poast are no friends of ours, Federates with the usual suspects, dark fedi (poa.st, freespeechextremist.com)Loli, runs with the same crowd as shitposter.club, freespeechextremist.com, neckbeard.xyz, etc.alt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)alt fedi (freespeechextremist.com)alt fedi (freespeechextremist.com) - user count: 2alt fedi (udongein.xyz,freespeechextremist.com,lain.com,weeaboo.space)alt fedi (freespeechextremist.com)alt fedi (kawa-kun.com,suya.place,gleasonator.com,freespeechextremist.com,minidisc.tokyo,shigusegubu.club) - user count: 86Moderation / safety concerns., Dubious federation and moderation policies, Federates with instances that violate our ToS/CoC (such as Gab, Kiwifarms.cc, freespeechextremist.com, etc.), On probation" ] }
+		,{ "tuple": [ "freetalklive.com", "Free speech, praising the KKK, antivax, etc." ] }
+		,{ "tuple": [ "freethinkers.lgbt", "Edgelord" ] }
+		,{ "tuple": [ "freewahaextremist.wtf", "Ableism, racism, transmisia" ] }
+		,{ "tuple": [ "frennet.link", "" ] }
+		,{ "tuple": [ "froth.zone", "Hate speech, Immediate adjacency to many free speech extremist and other bad actor instances., Federates with the usual suspects, Edgelord" ] }
+		,{ "tuple": [ "fulltermprivacy.com", "" ] }
+		,{ "tuple": [ "furcel.club", "" ] }
+		,{ "tuple": [ "furry.lgbt", "Racism, bad faith replies to BIPoC, aggression, co-opting work of BIPoC without consent or credit, etc." ] }
+		,{ "tuple": [ "gab.com", "Harassment, Hate speech, Far-right extremism, fascism; hate speech; misinformation, conspiracy theories., Gab" ] }
+		,{ "tuple": [ "gameliberty.club", "Bot that announces blocks, Hate speech, free speech zone, Strong likelihood of CSAM and CSAM-adjacent material; racism, hate., Racism, Edgelordalt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)dni (stereophonic.space,posting.lolicon.rocks,bae.st,lain.com); alt fedi (inferencium.net,stereophonic.space,posting.lolicon.rocks,bae.st,valkyrie.world,lain.com,gameliberty.club)" ] }
+		,{ "tuple": [ "gearlandia.haus", "Hate speech, Discrimination, racism, free speech zone, Transphobia, Edgelord" ] }
+		,{ "tuple": [ "genderheretics.xyz", "Transphobia, Hate speech; homophobia / transphobia., Hate speech, Edgelord" ] }
+		,{ "tuple": [ "gentoo.live", "dni (gentoo.live,shota.house,pawoo.net,disqordia.space,skinnyver.se)" ] }
+		,{ "tuple": [ "geofront.rocks", "Racism, slurs, Edgelord" ] }
+		,{ "tuple": [ "gitmo.life", "Hate speech, Alt-right rhetoric, conspiracy theories, zenophobia" ] }
+		,{ "tuple": [ "gleasonator.com", "Transphobia, Hate speech, Immediate adjacency to many free speech extremist and other bad actor instances., TERF instance, admin created spinster.xyz, Edgelordalt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)alt fedi (gleasonator.com,nicecrew.digital,poa.st)alt fedi (loveisgrief.tk,gleasonator.com,nicecrew.digital,psion.co,poa.st,sheep.network)alt fedi (kawa-kun.com,suya.place,gleasonator.com,freespeechextremist.com,minidisc.tokyo,shigusegubu.club) - user count: 86" ] }
+		,{ "tuple": [ "glee.li", "" ] }
+		,{ "tuple": [ "glindr.org", "Transphobia" ] }
+		,{ "tuple": [ "glowers.club", "Hate speech" ] }
+		,{ "tuple": [ "godspeed.moe", "" ] }
+		,{ "tuple": [ "gorf.pub", "free speech zone, Free speech, conspiracy theory, racism, antisemitism, fascism, homophobia..., Edgelord" ] }
+		,{ "tuple": [ "goyim.app", "racism, ableism, transphobia, nazi content, Edgelord" ] }
+		,{ "tuple": [ "goyslop.cafe", "Racism, Edgelord" ] }
+		,{ "tuple": [ "haeder.net", "" ] }
+		,{ "tuple": [ "handholding.io", "Edgelord" ] }
+		,{ "tuple": [ "has.scammed.me", "Wildebeest" ] }
+		,{ "tuple": [ "helladoge.com", "crypto bs, Edgelord" ] }
+		,{ "tuple": [ "hentai.baby", "Inappropriate content" ] }
+		,{ "tuple": [ "hidamari.apartments", "Admin engages in edge-lord behavior and unprovoked harassment.  Federates with several instances known to traffic in hateful behavior.   " ] }
+		,{ "tuple": [ "hitchhiker.social", "Antivax, harassment , Edgelord" ] }
+		,{ "tuple": [ "homoo.social", "" ] }
+		,{ "tuple": [ "honkwerx.tech", "Hate speech, transphobia, racism, Edgelord" ] }
+		,{ "tuple": [ "hornyjail.pro", "Reason: alts of usual scum, channer, shitposting, soapbox, Edgelord" ] }
+		,{ "tuple": [ "hunk.city", "Spam, Spamming" ] }
+		,{ "tuple": [ "iddqd.social", "Harassment, Discrimination, racism, free speech zone, No CoC/ToS, interacts with known Nazi affiliated instances, Edgelord" ] }
+		,{ "tuple": [ "ieji.de", "" ] }
+		,{ "tuple": [ "ignorelist", "" ] }
+		,{ "tuple": [ "intkos.link", "Hate speech" ] }
+		,{ "tuple": [ "ioc.exchange", "" ] }
+		,{ "tuple": [ "jojo.singleuser.club", "" ] }
+		,{ "tuple": [ "jorts.horse", "Poor moderation, unabashedly spamming fediblock, endorsed by the admin, Unmoderated" ] }
+		,{ "tuple": [ "justicewarrior.social", "Edgelord" ] }
+		,{ "tuple": [ "kawa-kun.com", "alt fedi (kawa-kun.com,suya.place,gleasonator.com,freespeechextremist.com,minidisc.tokyo,shigusegubu.club) - user count: 86" ] }
+		,{ "tuple": [ "kazar.ma", "https://cathode.church/@moderation/109930771458844836" ] }
+		,{ "tuple": [ "kibitz.cloud", "" ] }
+		,{ "tuple": [ "kinky.business", "Un-CWed NSFW" ] }
+		,{ "tuple": [ "kinkyelephant.com", "" ] }
+		,{ "tuple": [ "kitsunemimi.club", "Hate speech, Edgelordalt fedi (poa.st,lovesick.social,linux.pizza,mastodon.ml,eientei.org,outerheaven.club,kitsunemimi.club,chudbuds.lol,lizards.live,shitposter.club)" ] }
+		,{ "tuple": [ "kiwifarms.cc", "Known for harassment, KiwiFarms., Transphobia, doxxing, harassment, racism, hate speechModeration / safety concerns., Dubious federation and moderation policies, Federates with instances that violate our ToS/CoC (such as Gab, Kiwifarms.cc, freespeechextremist.com, etc.), On probation" ] }
+		,{ "tuple": [ "kolektiva.social", "Moderation issues, Poor moderation, abusive/harrassment behaviour" ] }
+		,{ "tuple": [ "kompost.cz", "Edgelord" ] }
+		,{ "tuple": [ "kurosawa.moe", "Hate speech, Harassment, loli, racism, slurs, channer, Edgelord" ] }
+		,{ "tuple": [ "lain.com", "Edgelorddni (stereophonic.space,posting.lolicon.rocks,bae.st,lain.com); alt fedi (inferencium.net,stereophonic.space,posting.lolicon.rocks,bae.st,valkyrie.world,lain.com,gameliberty.club)alt fedi (minidisc.tokyo,poa.st,shitposter.club,stereophonic.space,brotka.st,lain.com,udongein.xyz,suya.place,breastmilk.club) - user count: 4alt fedi (udongein.xyz,freespeechextremist.com,lain.com,weeaboo.space)alt fedi (shitposter.club,tomboyfan.club,waifuism.life,worm.pink,brotka.st,xenofem.me,nulled.red,lain.com) - user count: 1alt fedi (brotka.st,lain.com,chudbuds.lol)alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1" ] }
+		,{ "tuple": [ "lain.sh", "Racism, harassment, Edgelord" ] }
+		,{ "tuple": [ "lc.imexile.moe", "FediBlock.Org: Underage illustrated pornography lolicon" ] }
+		,{ "tuple": [ "leafposter.club", "Hate speech, Racism, Transphobia, Free speech, racism, harassment, Edgelord" ] }
+		,{ "tuple": [ "leftychan.net", "Channer, Edgelord" ] }
+		,{ "tuple": [ "lewdieheaven.com", "" ] }
+		,{ "tuple": [ "lgbtfree.zone", "The name says it all; homophobia / transphobia., Queerphobia, Edgelord" ] }
+		,{ "tuple": [ "liberdon.com", "Racism, Transphobia, Harassment and toxic behaviour from users, parler/gab associations, Edgelord" ] }
+		,{ "tuple": [ "libertynode.net", "Edgelordconspiracy (noagendasocial.com,libertynode.net)" ] }
+		,{ "tuple": [ "libranet.de", "Alt fedi" ] }
+		,{ "tuple": [ "libre.video", "" ] }
+		,{ "tuple": [ "librenet.co.za", "Covid denialism, misinformation; admin accounts do not align with our values., Antivax, covid denial, conspiracy theories" ] }
+		,{ "tuple": [ "ligma.pro", "r000t and ligma.pro same owner, ligma.pro alt, dark fedi (ligma.pro alt)free speech zone, Building scrapers without opt-out, Edgelord" ] }
+		,{ "tuple": [ "linux.pt", "Wildebeest" ] }
+		,{ "tuple": [ "lizards.live", "free speech zone, Federates with the usual suspects, Edgelordalt fedi (sanfranciscan.org,psion.co,udongein.xyz,bae.st,lizards.live) - user count: 1alt fedi (poa.st,lovesick.social,linux.pizza,mastodon.ml,eientei.org,outerheaven.club,kitsunemimi.club,chudbuds.lol,lizards.live,shitposter.club)alt fedi (hermitmountain.top,outerheaven.club,blob.cat,lizards.live,suya.place,poa.st,stereophonic.space)alt fedi (fluf.club,lolicon.rocks,lizards.live,cum.salon,poa.st,bae.st) - user count: 2" ] }
+		,{ "tuple": [ "loli.pizza", "" ] }
+		,{ "tuple": [ "lolicon.rocks", "Free speech instance that encourages all manner of bigotry and hate speech. alt fedi (fluf.club,lolicon.rocks,lizards.live,cum.salon,poa.st,bae.st) - user count: 2" ] }
+		,{ "tuple": [ "lolison.top", "Inappropriate content, Pedos, Strong likelihood of CSAM and CSAM-adjacent material., loli , Underage" ] }
+		,{ "tuple": [ "lovingexpressions.net", "Federates with the usual suspects, Edgelord" ] }
+		,{ "tuple": [ "lucasvl.nl", "Spamming fediblock, federates with usual suspects, Instance owner is apparently underage by US lawalt fedi (bae.st,skinnyver.se,lucasvl.nl,udongein.xyz,waifuism.life)" ] }
+		,{ "tuple": [ "lush.moe", "Inappropriate contentFediBlock.Org: Underage illustrated pornography lolicon" ] }
+		,{ "tuple": [ "m.anirloli.dev", "" ] }
+		,{ "tuple": [ "mahodou.moe", "Harassment, Federates with the usual suspects, Edgelord" ] }
+		,{ "tuple": [ "makemysarcophagus.com", "" ] }
+		,{ "tuple": [ "maladaptive.art", "Pedos, Federates with the usual suspects, freeze peach, admin ran anime.website (pedo, fascist), Edgelord" ] }
+		,{ "tuple": [ "marsey.moe", "" ] }
+		,{ "tuple": [ "masochi.st", "Inappropriate content, KiwiFarms/KF affiliation., harassment, white supremacy, Edgelord" ] }
+		,{ "tuple": [ "masthead.social", "" ] }
+		,{ "tuple": [ "mastinator.com", "Third-party bots, Block evasion tool, Aggregator republishing content, impersonation concerns., Block evasion, Aggregator that mirrors fedi accounts, Counterfeit accounts (fediverse mirror)" ] }
+		,{ "tuple": [ "mastodon.chaika.me", "Wildebeest" ] }
+		,{ "tuple": [ "mastodon.city", "" ] }
+		,{ "tuple": [ "mastodon.cloud", "Owned by pawoo.net owner; federates with everyone; literally no server rules, Dubious federation and moderation policies, Not moderating racism and hate speech targeted at a user, federating with poa.st, Inadequate moderation" ] }
+		,{ "tuple": [ "mastodon.coffee", "" ] }
+		,{ "tuple": [ "mastodon.gatewayy.net", "Wildebeest" ] }
+		,{ "tuple": [ "mastodon.lolicon", "" ] }
+		,{ "tuple": [ "mastodong[.]lol", "" ] }
+		,{ "tuple": [ "mastodonhub.com", "Mirroring other Mastodon accounts without permission" ] }
+		,{ "tuple": [ "md.tret.jp", "Wildebeest" ] }
+		,{ "tuple": [ "memehub.eu", "" ] }
+		,{ "tuple": [ "merovingian.club", "Reason: usual scum, channers, transphobia, Edgelordalt fedi (bae.st,federated.fun,merovingian.club,spinster.xyz,poa.st) - user count: 2" ] }
+		,{ "tuple": [ "meta-tube.de", "" ] }
+		,{ "tuple": [ "midnightride.rs", "" ] }
+		,{ "tuple": [ "midwaytrades.com", "Edgelord" ] }
+		,{ "tuple": [ "mirr0r.city", "Pedos, Strong likelihood of CSAM and CSAM-adjacent material., Inappropriate content, Federates with the usual suspects, ableism, Edgelorddni (stereophonic.space,mirr0r.city)" ] }
+		,{ "tuple": [ "misskey-forkbomb.cf", "Spam, Spam/Harassment" ] }
+		,{ "tuple": [ "misskey.twink.ink", "" ] }
+		,{ "tuple": [ "moa.mastodonhub.com", "" ] }
+		,{ "tuple": [ "moa.st", "Hate speech, Part of poa.st (free speech, hate speech, racism, etc.)" ] }
+		,{ "tuple": [ "monads.online", "Moderation / safety concerns., Racism, harassment , Edgelord" ] }
+		,{ "tuple": [ "morale.ch", "Nazis, Antisemitism, far right, Edgelord" ] }
+		,{ "tuple": [ "mostr.pub", "" ] }
+		,{ "tuple": [ "mouse.services", "Harassment, Hate speech" ] }
+		,{ "tuple": [ "mstdn.io", "Federating with mstdn.io who host fascismFederating with mstdn.io who host fascismHosting fash content, not defederating from fash instances, transphobic accounts that harass others, On probation" ] }
+		,{ "tuple": [ "mstdn.jp", "pawoo affiliate, Moderation / safety concerns., Dubious federation and moderation policies" ] }
+		,{ "tuple": [ "mstdn.party", "Admin AWOL? Federates with pieville, poor moderation" ] }
+		,{ "tuple": [ "mstdnandchill.fun", "" ] }
+		,{ "tuple": [ "mstevens.uk", "Wildebeest" ] }
+		,{ "tuple": [ "mugicha.club", "Hate speech, Racismalt fedi (bikeshed.party,mastodon.ml,bae.st,mugicha.club,disqordia.space)alt fedi (mugicha.club,bae.st) - user count: 5" ] }
+		,{ "tuple": [ "narrativerry.xyz", "Edgelord" ] }
+		,{ "tuple": [ "natehiggers.online", "The name says it all; racism. , Edgelordalt fedi (natehiggers.online)" ] }
+		,{ "tuple": [ "nazi.social", "Hate speech, Antisemitism, racism; the name says it all., Self-explanatory; nazism" ] }
+		,{ "tuple": [ "neckbeard.xyz", "Hate speech, Lolicon, abusive behaviourLoli, runs with the same crowd as shitposter.club, freespeechextremist.com, neckbeard.xyz, etc." ] }
+		,{ "tuple": [ "needs.vodka", "" ] }
+		,{ "tuple": [ "neenster.org", "Transphobia, Gab-fork, spin off of TERF instance spinster.xyz, admin is a moderator of spinster.xyz, Edgelord" ] }
+		,{ "tuple": [ "nicecrew.digital", "right-wing douchebags; federates with nazis; freezepeach, Moderation / safety concerns., Federates with the usual suspects, dark fedi (cawfee.club, poa.st, nicecrew.digital)Hate speech, racism, homophobiaalt fedi (gleasonator.com,nicecrew.digital,poa.st)alt fedi (loveisgrief.tk,gleasonator.com,nicecrew.digital,psion.co,poa.st,sheep.network)" ] }
+		,{ "tuple": [ "nnia.space", "-, Pedophilia, Strong likelihood of CSAM and CSAM-adjacent material., 'Free speech, Underagedni (freak.university,mapsupport.de,nnia.space) - user count: 3" ] }
+		,{ "tuple": [ "noagendasocial.com", "Harassment,  Misinformation and conspiracy theories , free speech zone, harassment, Public calls for violence, misinformation, conspiracy theories; moderation / safety concerns., Hate speech, 'Free speech', Free speech [sic] zonealt fedi (poa.st,noagendasocial.com)conspiracy (noagendasocial.com)conspiracy (noagendasocial.com,shitposter.club)conspiracy (noagendasocial.com,abraham.su,freeatlantis.com)conspiracy (noagendasocial.com) - user count: 1conspiracy (noagendasocial.com)conspiracy (noagendasocial.com) - user count: 1conspiracy (noagendasocial.com)conspiracy (lightlyseared.online,noagendasocial.com,ouda.space)conspiracy (lightlyseared.online,noagendasocial.com)conspiracy (noagendasocial.com)conspiracy (noagendasocial.com,libertynode.net)conspiracy (noagendasocial.com)conspiracy (noagendasocial.com,eveningzoo.club,freeatlantis.com)" ] }
+		,{ "tuple": [ "noagendasocial.nl", "" ] }
+		,{ "tuple": [ "noagendatube.com", "" ] }
+		,{ "tuple": [ "nobodyhasthe.biz", "Hate speech, Edgelord" ] }
+		,{ "tuple": [ "noc.social", "Not actioning harassment of LGBTQI, black, & disabled people" ] }
+		,{ "tuple": [ "nro.io", "Wildebeest" ] }
+		,{ "tuple": [ "ns.auction", "Hate speech" ] }
+		,{ "tuple": [ "nukem.biz", "" ] }
+		,{ "tuple": [ "nya.house", "" ] }
+		,{ "tuple": [ "obo.sh", "pedophilia" ] }
+		,{ "tuple": [ "occultist.space", "" ] }
+		,{ "tuple": [ "onionfarms.org", "" ] }
+		,{ "tuple": [ "oursocialism.today", "" ] }
+		,{ "tuple": [ "outerkosm.us", "" ] }
+		,{ "tuple": [ "outpoa.st", "Hate speech, Moderation / safety concerns., Free speech, hate speech, racism, Edgelord" ] }
+		,{ "tuple": [ "parler.socialq.club", "" ] }
+		,{ "tuple": [ "pawlicker.com", "Edgelord" ] }
+		,{ "tuple": [ "pawoo.net", "Inappropriate content, Spam, Spam., Inappropriate Content, hosting pedophilia, Potential pedophiliaOwned by pawoo.net owner; federates with everyone; literally no server rules, Dubious federation and moderation policies, Not moderating racism and hate speech targeted at a user, federating with poa.st, Inadequate moderationdni (pawoo.net,pibvt.net)dni (youjo.love,pawoo.net)dni (pawoo.net,shota.house,blob.cat)dni (gentoo.live,shota.house,pawoo.net,disqordia.space,skinnyver.se)" ] }
+		,{ "tuple": [ "payfrit.com", "" ] }
+		,{ "tuple": [ "paypig.org", "Hate speech, Alt-right associations, hate speech, transphobia" ] }
+		,{ "tuple": [ "pedo.school", "Lolicon, Strong likelihood of CSAM and CSAM-adjacent material., I mean, look at the domain name..., Underage" ] }
+		,{ "tuple": [ "peertube.sharivegas.com", "" ] }
+		,{ "tuple": [ "piazza.today", "Qanon, conspiracy theories, soapbox, Single-user  edgelord" ] }
+		,{ "tuple": [ "pibvt.net", "dni (pawoo.net,pibvt.net)" ] }
+		,{ "tuple": [ "pieville.net", "Harassment, Hate speech, Hate speech., Nazi, Edgelord" ] }
+		,{ "tuple": [ "pisskey.io", "Hate speech" ] }
+		,{ "tuple": [ "pl.anon-kenkai.com", "Inappropriate content, Racism, homophobia, antisemitism" ] }
+		,{ "tuple": [ "pl.gamers.exposed", "" ] }
+		,{ "tuple": [ "pl.i2p.rocks", "" ] }
+		,{ "tuple": [ "pl.smuglo.li", "Inappropriate content" ] }
+		,{ "tuple": [ "pl.smugloli.net", "" ] }
+		,{ "tuple": [ "pl.thj.no", "" ] }
+		,{ "tuple": [ "pl.wysteriary.art", "" ] }
+		,{ "tuple": [ "plagu.ee", "" ] }
+		,{ "tuple": [ "pleroma.elementality.org", "Racism, fash, harassment " ] }
+		,{ "tuple": [ "pleroma.miria.love", "" ] }
+		,{ "tuple": [ "pleroma.nobodyhasthe.biz", "Hate speech, hate speech, Transphobia" ] }
+		,{ "tuple": [ "pleroma.skyshanty.xyz", "Inappropriate content, racism" ] }
+		,{ "tuple": [ "pleroma.soykaf.com", "Federates with instances that violate our CoC/ToS such as Gab, etc." ] }
+		,{ "tuple": [ "pleroma.us", "Hate speech" ] }
+		,{ "tuple": [ "pleromer.net", "" ] }
+		,{ "tuple": [ "pmth.us", "harassment, federates with toxic instances, Edgelord" ] }
+		,{ "tuple": [ "poa.st", "Racism, antisemitism., confederate, poa.st affiliationFederates with the usual suspects, dark fedi (bae.st, poa.st)Hate speech, Part of poa.st (free speech, hate speech, racism, etc.)Hate speech, Moderation / safety concerns., Part of poa.st (free speech, hate speech, racism, etc.)Nazis; Pedophiles; Excessive shitposting, Racism, antisemitism; admin accounts do not align with our values., Free speech, nazi, ties to poa.st, Keybump siteright-wing douchebags; federates with nazis; freezepeach, Moderation / safety concerns., Federates with the usual suspects, dark fedi (cawfee.club, poa.st, nicecrew.digital)Alt of 'poweredbycocaine' (Free speech, nazi, ties to poa.st), Another Keybump siteOwned by pawoo.net owner; federates with everyone; literally no server rules, Dubious federation and moderation policies, Not moderating racism and hate speech targeted at a user, federating with poa.st, Inadequate moderationHate speech, Racism, Moderation / safety concerns., Hate Speech, Nazi contentfriends of poast are no friends of ours, Federates with the usual suspects, dark fedi (poa.st, freespeechextremist.com)friends of poast are no friends of ours, Moderation / safety concerns., Federates with the usual suspects, dark fedi (poa.st)alt fedi (poa.st,lovesick.social,linux.pizza,mastodon.ml,eientei.org,outerheaven.club,kitsunemimi.club,chudbuds.lol,lizards.live,shitposter.club)alt fedi (poa.st,noagendasocial.com)alt fedi (gleasonator.com,nicecrew.digital,poa.st)alt fedi (poa.st)alt fedi (poa.st)alt fedi (poa.st,sneed.vip)alt fedi (qoto.org,poa.st)alt fedi (poa.st,shitposter.club)alt fedi (poa.st)alt fedi (mastodon.ml,poa.st)alt fedi (poa.st)alt fedi (bae.st,federated.fun,merovingian.club,spinster.xyz,poa.st) - user count: 2alt fedi (minidisc.tokyo,poa.st,shitposter.club,stereophonic.space,brotka.st,lain.com,udongein.xyz,suya.place,breastmilk.club) - user count: 4alt fedi (loveisgrief.tk,gleasonator.com,nicecrew.digital,psion.co,poa.st,sheep.network)alt fedi (hermitmountain.top,outerheaven.club,blob.cat,lizards.live,suya.place,poa.st,stereophonic.space)alt fedi (poa.st,salastil.com) - user count: 1alt fedi (poa.st,seal.cafe,sleepy.cafe)alt fedi (seal.cafe,breastmilk.club,minidisc.tokyo,poa.st) - user count: 3alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1alt fedi (poa.st,linux.pizza,cobblestone.rocks)alt fedi (linuxrocks.online,poa.st) - user count: 2alt fedi (fluf.club,lolicon.rocks,lizards.live,cum.salon,poa.st,bae.st) - user count: 2" ] }
+		,{ "tuple": [ "poast.org", "Hate speech, Moderation / safety concerns." ] }
+		,{ "tuple": [ "poast.tv", "Hate speech, Moderation / safety concerns., Part of poa.st (free speech, hate speech, racism, etc.)" ] }
+		,{ "tuple": [ "pokemon.men", "" ] }
+		,{ "tuple": [ "pol.social", "" ] }
+		,{ "tuple": [ "pornssd.com", "" ] }
+		,{ "tuple": [ "poster.place", "Discrimination, racism, free speech zone, Harassment, hate speech, spam., Hate speech, Free speech, nazi, queerphobia, Edgelord" ] }
+		,{ "tuple": [ "posting.lolicon.rocks", "Pedophilia, Strong likelihood of CSAM and CSAM-adjacent material; terrible content all around., loli, UnderageHate speech, Alternative instance to posting.lolicon.rocks,  same admin, Edgelorddni (stereophonic.space,posting.lolicon.rocks,bae.st,lain.com); alt fedi (inferencium.net,stereophonic.space,posting.lolicon.rocks,bae.st,valkyrie.world,lain.com,gameliberty.club)" ] }
+		,{ "tuple": [ "prospeech.space", "Free speech " ] }
+		,{ "tuple": [ "pt.pube.tk", "" ] }
+		,{ "tuple": [ "quanta.wiki", "Conspiracy theories, Homophobia / transphobia; racism., Federates with the usual suspects" ] }
+		,{ "tuple": [ "quodverum.com", "" ] }
+		,{ "tuple": [ "rage.lol", "Free speech instance, members with nazi affiliation, members that advocate genocide and eugenics" ] }
+		,{ "tuple": [ "rakket.app", "Hate speech, Nazis, harassment " ] }
+		,{ "tuple": [ "rapemeat.shop", "pro-rape, Edgelord" ] }
+		,{ "tuple": [ "rapemeat.solutions", "Lolicon, Pro-rape, Edgelord" ] }
+		,{ "tuple": [ "rayn.bo", "" ] }
+		,{ "tuple": [ "rcsocial.net", "Homophobia, federating with Gab, Edgelord" ] }
+		,{ "tuple": [ "rdrama.cc", "Hate speech, Harassment, racism, homophobia, Edgelordalt fedi (plus.st,rdrama.cc,shitposter.club,udongein.xyz,asbestos.cafe,blob.cat,disqordia.space,bae.st)" ] }
+		,{ "tuple": [ "rebelbase.site", "Harassment expressly accepted." ] }
+		,{ "tuple": [ "repl.co", "Spam, Spam/Harassment, DDoS attacks., recursion/DoS attacks, Edgelord" ] }
+		,{ "tuple": [ "respublicae.eu", "Bots, Twitter mirror., Counterfeit accounts (Twitter mirror)" ] }
+		,{ "tuple": [ "retardedniggers.forsale", "" ] }
+		,{ "tuple": [ "riaf.xyz", "Wildebeest" ] }
+		,{ "tuple": [ "rodent.live", "" ] }
+		,{ "tuple": [ "rojogato.com", "free speech zone, Free speech extremism, harassment, hate speech, racism., Harassment, Edgelord" ] }
+		,{ "tuple": [ "rot.gives", "refusal.biz existing block/affiliate, Strong likelihood of CSAM and CSAM-adjacent material., hate speech, underage, The new refusal.llc (CSAM), Edgelorddni (disqordia.space,rot.gives)dni (jameuwu.com,rot.gives) - user count: 10dni (rot.gives) - user count: 1" ] }
+		,{ "tuple": [ "ruinouspowe.rs", "" ] }
+		,{ "tuple": [ "ryona.agency", "Hate speech, Harassment, hate speech, KF affiliation., Transphobia, Edgelordalt fedi (valkyrie.world,decayable.ink,ryona.agency) - user count: 5" ] }
+		,{ "tuple": [ "santsenques.cat", "" ] }
+		,{ "tuple": [ "sauleau.social", "Wildebeest" ] }
+		,{ "tuple": [ "saurier.social", "Wildebeest" ] }
+		,{ "tuple": [ "sayit.world", "" ] }
+		,{ "tuple": [ "schwartzwelt.xyz", "Hate speech" ] }
+		,{ "tuple": [ "seal.cafe", "Hate speech, Harassment, hate speech; homophobia / transphobia., Antisemitism, racism, free speech, harassment, Edgelordalt fedi (poa.st,seal.cafe,sleepy.cafe)alt fedi (seal.cafe,breastmilk.club,minidisc.tokyo,poa.st) - user count: 3" ] }
+		,{ "tuple": [ "searchtodon.social", "Scraper" ] }
+		,{ "tuple": [ "sh.itjust.works", "" ] }
+		,{ "tuple": [ "shigusegubu.club", "Trusted Block List, Harassment, Edgelorddni (snowdin.town,disqordia.space,bubbletea.dev,shigusegubu.club,youjo.love)alt fedi (kawa-kun.com,suya.place,gleasonator.com,freespeechextremist.com,minidisc.tokyo,shigusegubu.club) - user count: 86" ] }
+		,{ "tuple": [ "shitpost.cloud", "Hate speech, Harassment, Free speech extremism, harassment., Racism, alt-right, Edgelord" ] }
+		,{ "tuple": [ "shitposter.club", "Weird Earth Blocklist: Hate speech, etc., Federates with noagenda, shitposter.club, EdgelordHarassment, Hate speech, 'Free speech', Free speech [sic] zoneLoli, runs with the same crowd as shitposter.club, freespeechextremist.com, neckbeard.xyz, etc.Instância de um pessoal do shitposter.club e afins.alt fedi (poa.st,lovesick.social,linux.pizza,mastodon.ml,eientei.org,outerheaven.club,kitsunemimi.club,chudbuds.lol,lizards.live,shitposter.club)alt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)conspiracy (noagendasocial.com,shitposter.club)alt fedi (plus.st,rdrama.cc,shitposter.club,udongein.xyz,asbestos.cafe,blob.cat,disqordia.space,bae.st)alt fedi (poa.st,shitposter.club)alt fedi (minidisc.tokyo,poa.st,shitposter.club,stereophonic.space,brotka.st,lain.com,udongein.xyz,suya.place,breastmilk.club) - user count: 4alt fedi (blob.cat,minidisc.tokyo,catposter.club,varishangout.net,shitposter.club,goreslut.xyz,bae.st,valkyrie.world,starnix.network) - user count: 1alt fedi (shitposter.club,tomboyfan.club,waifuism.life,worm.pink,brotka.st,xenofem.me,nulled.red,lain.com) - user count: 1alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1" ] }
+		,{ "tuple": [ "shota.house", "dni (pawoo.net,shota.house,blob.cat)dni (gentoo.live,shota.house,pawoo.net,disqordia.space,skinnyver.se)Inappropriate untagged NSFW content; moderation / safety concerns., free speech, pedophilia? (re. domain name), Underage" ] }
+		,{ "tuple": [ "silliness.observer", "Single-person instance, person does not align with our values., Racism" ] }
+		,{ "tuple": [ "sinblr.com", "Spam, Automated porn spam" ] }
+		,{ "tuple": [ "skinheads.eu", "" ] }
+		,{ "tuple": [ "skinheads.io", "" ] }
+		,{ "tuple": [ "skinheads.network", "" ] }
+		,{ "tuple": [ "skinheads.social", "" ] }
+		,{ "tuple": [ "skinheads.uk", "" ] }
+		,{ "tuple": [ "skins.gay", "" ] }
+		,{ "tuple": [ "skippers-bin.com", "Inappropriate content, Lolicon, abusive behaviour, Edgelord" ] }
+		,{ "tuple": [ "skyshanty.xyz", "Edgelord" ] }
+		,{ "tuple": [ "slash.cl", "Edgelord" ] }
+		,{ "tuple": [ "sleepy.cafe", "Hate speech, Racism, KiwiFarms/KF affiliation., harassment , Edgelordalt fedi (poa.st,seal.cafe,sleepy.cafe)" ] }
+		,{ "tuple": [ "sm.shaw.app", "" ] }
+		,{ "tuple": [ "smuglo.li", "Edgelord" ] }
+		,{ "tuple": [ "sneed.social", "This instance regularly interacts with known instances that house bad actors and is openly racist, constantly espousing white nationalist ideas and thoughts. " ] }
+		,{ "tuple": [ "snowdin.town", "Reason: sealioning, channers, scum-adjacent, Edgelorddni (snowdin.town,disqordia.space,bubbletea.dev,shigusegubu.club,youjo.love)dni (snowdin.town,woof.tech,cubhub.social)" ] }
+		,{ "tuple": [ "soc.mahodou.moe", "Slurs" ] }
+		,{ "tuple": [ "soc.ua-fediland.de", "Spam follow accounts., follow bots, Targeted by Russian propaganda bots and trouble moderating, also admin displaying homophobia, Follow-spamming, unauthorized bots" ] }
+		,{ "tuple": [ "social.bacondarwin.uk", "Wildebeest" ] }
+		,{ "tuple": [ "social.beepboop.ga", "" ] }
+		,{ "tuple": [ "social.byoblu.com", "" ] }
+		,{ "tuple": [ "social.cosmick9.net", "" ] }
+		,{ "tuple": [ "social.domjh.com", "Wildebeest" ] }
+		,{ "tuple": [ "social.eng.chat", "Wildebeest" ] }
+		,{ "tuple": [ "social.erisa.party", "Wildebeest" ] }
+		,{ "tuple": [ "social.getgle.org", "homophobia" ] }
+		,{ "tuple": [ "social.isadati.work", "Wildebeest" ] }
+		,{ "tuple": [ "social.jgc.org", "Wildebeest" ] }
+		,{ "tuple": [ "social.lovingexpressions.net", "Hate speech, Free speech extremism., transphobia, nazism" ] }
+		,{ "tuple": [ "social.quodverum.com", "Misinformation and conspiracy theories, Racism, maga" ] }
+		,{ "tuple": [ "social.redxen.eu", "" ] }
+		,{ "tuple": [ "social.ryumu.dev", "Wildebeest" ] }
+		,{ "tuple": [ "social.shrimpcam.pw", "" ] }
+		,{ "tuple": [ "social.syum.ai", "Wildebeest" ] }
+		,{ "tuple": [ "social.teci.world", "free speech zone, Soapbox conservative freeze peach run by block-evader Casey Rollins" ] }
+		,{ "tuple": [ "social.theredbees.be", "Wildebeest" ] }
+		,{ "tuple": [ "social.tnem.dev", "Wildebeest" ] }
+		,{ "tuple": [ "social.urspringer.de", "Conspiracy, CoVid19 denier, Covid denialism, harassment, misinformation." ] }
+		,{ "tuple": [ "social.zhongguotese.net", "Wildebeest" ] }
+		,{ "tuple": [ "societal.co", "Harassment" ] }
+		,{ "tuple": [ "socnet.supes.com", "" ] }
+		,{ "tuple": [ "solagg.com", "Spam, Crypto Spam, crypto spam" ] }
+		,{ "tuple": [ "sonichu.com", "" ] }
+		,{ "tuple": [ "space.escovan.net", "" ] }
+		,{ "tuple": [ "spinster.xyz", "Transphobia, Hate speech, Immediate adjacency to many free speech extremist and other bad actor instances., TERF instance, admin created spinster.xyz, EdgelordTransphobia, Gab-fork, spin off of TERF instance spinster.xyz, admin is a moderator of spinster.xyz, EdgelordTransphobia, Discrimination, Homophobia / transphobia., Transphobia/TERFs, Fake siteFederates with instances that violate our CoC/ToS, such as Gab, Kiwifarms, Spinster.xyz, etc.alt fedi (bae.st,federated.fun,merovingian.club,spinster.xyz,poa.st) - user count: 2" ] }
+		,{ "tuple": [ "springbo.cc", "Harassment, free speech zone, racism, free speech, transphobia, Edgelord" ] }
+		,{ "tuple": [ "squid.kids", "Hate speech, Federates with the usual suspects, racism, channers, Edgelord" ] }
+		,{ "tuple": [ "staging.kazar.ma", "" ] }
+		,{ "tuple": [ "starnix.network", "Edgelordalt fedi (blob.cat,minidisc.tokyo,catposter.club,varishangout.net,shitposter.club,goreslut.xyz,bae.st,valkyrie.world,starnix.network) - user count: 1" ] }
+		,{ "tuple": [ "stereophonic.space", "Trusted Block List, Federates with the usual suspects, Edgelorddni (stereophonic.space,mirr0r.city)alt fedi (bubbletea.dev,brotka.st,gleasonator.com,shitposter.club,gensokyo.club,gameliberty.club,bae.st,stereophonic.space,hacktivis.me,hermit.cafe,blob.cat,freespeechextremist.com)dni (stereophonic.space,posting.lolicon.rocks,bae.st,lain.com); alt fedi (inferencium.net,stereophonic.space,posting.lolicon.rocks,bae.st,valkyrie.world,lain.com,gameliberty.club)alt fedi (minidisc.tokyo,poa.st,shitposter.club,stereophonic.space,brotka.st,lain.com,udongein.xyz,suya.place,breastmilk.club) - user count: 4alt fedi (hermitmountain.top,outerheaven.club,blob.cat,lizards.live,suya.place,poa.st,stereophonic.space)alt fedi (bubbletea.dev,stereophonic.space,shitposter.club,disqordia.space,shpposter.club,bungle.online,blob.cat,breastmilk.club,kyaruc.moe,nulled.red,poa.st,suya.place,asbestos.cafe,waifuism.life,lain.com,fritu.re,valkyrie.world) - user count: 1" ] }
+		,{ "tuple": [ "strelizia.net", "Hate speech, Alternative instance to posting.lolicon.rocks,  same admin, Edgelord" ] }
+		,{ "tuple": [ "stupid.moe", "" ] }
+		,{ "tuple": [ "switter.at", "Preparing for announced shutdown, Too many complaints about spam" ] }
+		,{ "tuple": [ "syspxl.xyz", "" ] }
+		,{ "tuple": [ "takesama.com", "Follow-spamming, unauthorized bots" ] }
+		,{ "tuple": [ "tastingtraffic.net", "Spam, Advertising, spam, Queerphobia, Edgelord" ] }
+		,{ "tuple": [ "tcode.kenfm.de", "" ] }
+		,{ "tuple": [ "tech.lgbt", "Blocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbtBlocked by tech.lgbt" ] }
+		,{ "tuple": [ "teci.world", "Federates with the usual suspects, Edgelord" ] }
+		,{ "tuple": [ "terrible.place", "Hate speech, The name says it all; harassment, hate speech, racism., fascism, racism, harrassment" ] }
+		,{ "tuple": [ "theapex.social", "No agenda" ] }
+		,{ "tuple": [ "theautisticinvestors.quest", "" ] }
+		,{ "tuple": [ "thecitadel.social", "" ] }
+		,{ "tuple": [ "theduran.icu", "" ] }
+		,{ "tuple": [ "thepostearthdestination.com", "Homophobia / transphobia; admin accounts do not align with our values., Admin is a transphobe and uses ableist language, Edgelord" ] }
+		,{ "tuple": [ "theres.life", "same admin of theres.liferight-wing douchebags; federates with nazis; freezepeach, Bigotry, gab/pleroma adjacent , Edgelord" ] }
+		,{ "tuple": [ "threads.net", "" ] }
+		,{ "tuple": [ "tkammer.de", "Edgelord" ] }
+		,{ "tuple": [ "toot.canberrasocial.net", "Racism, free speech instance" ] }
+		,{ "tuple": [ "toot.community", "" ] }
+		,{ "tuple": [ "tooters.space", "" ] }
+		,{ "tuple": [ "traboone.com", "" ] }
+		,{ "tuple": [ "trumpislovetrumpis.life", "The name says it all., Is he though, Edgelord site" ] }
+		,{ "tuple": [ "truthsocial.co.in", "Offshoot of TruthSocial, Misinformation; far-right extremism., truthsocial, Edgelord" ] }
+		,{ "tuple": [ "truthsocial.com", "Misinformation; far-right extremism., Just in case." ] }
+		,{ "tuple": [ "truthsocialpro.org", "Donald Trump-affiliated, Far-right extremism, fascism; misinformation, conspiracy theories., Trump instance" ] }
+		,{ "tuple": [ "tube.kenfm.de", "Conspiracy videos" ] }
+		,{ "tuple": [ "tube.querdenken-711.de", "Conspiracy videos" ] }
+		,{ "tuple": [ "tweepsmap.com", "" ] }
+		,{ "tuple": [ "tweets.makerbox.net", "Wildebeest" ] }
+		,{ "tuple": [ "universeodon.com", "" ] }
+		,{ "tuple": [ "urchan.org", "Hate speech, Free speech extremism; KiwiFarms/KF affiliation., free speech, homophobia, etc, Edgelord" ] }
+		,{ "tuple": [ "varishangout.net", "Anti-semitism, Hate speech, transmisia, homomisia, racism, Edgelordalt fedi (blob.cat,minidisc.tokyo,catposter.club,varishangout.net,shitposter.club,goreslut.xyz,bae.st,valkyrie.world,starnix.network) - user count: 1" ] }
+		,{ "tuple": [ "video.nobodyhasthe.biz", "" ] }
+		,{ "tuple": [ "videos.martinezperspective.org", "" ] }
+		,{ "tuple": [ "vrij.social", "admin interacting with known far-right/qanon instances" ] }
+		,{ "tuple": [ "wg.is", "Wildebeest" ] }
+		,{ "tuple": [ "whinge.house", "" ] }
+		,{ "tuple": [ "whinge.town", "Racism, Homophobia, anti-semitism, Federates with the usual suspects, Edgelordalt fedi (bubbletea.dev,cachapa.xyz,airis.work,asbestos.cafe,waifuism.life,pengi-san.moe,beefyboys.win,bae.st,whinge.town) - user count: 1" ] }
+		,{ "tuple": [ "wideboys.org", "Harassment, Edgelord" ] }
+		,{ "tuple": [ "wiki-tube.de", "Right wing conspiracy videos" ] }
+		,{ "tuple": [ "wildebeest.tooot.app", "Wildebeest" ] }
+		,{ "tuple": [ "wintermute.fr.to", "" ] }
+		,{ "tuple": [ "wolfgirl.bar", "Hate speech, Racist and Anti-Semitic content, Harassment, hate speech, Edgelord" ] }
+		,{ "tuple": [ "worm.pink", "An instance with lax moderation standards and has been known to spam the fediblock tag.   They also federate with a number of problematic instances i.e. disqordia and shitposter club that regularly engage in anti-black behavioralt fedi (awoo.fai.st,disqordia.space,thejar.club,linux.pizza,brotka.st,udongein.xyz,mastodong.lol,hermitmountain.top,lain.gay,blob.cat,worm.pink,bae.st,letsalllovela.in)dni (earfolds.com,aethy.com,blimps.xyz,worm.pink)alt fedi (shitposter.club,tomboyfan.club,waifuism.life,worm.pink,brotka.st,xenofem.me,nulled.red,lain.com) - user count: 1" ] }
+		,{ "tuple": [ "wurm.host", "Suicide baiting, racism, slurs, trolling, harassment" ] }
+		,{ "tuple": [ "www.bigguys.club", "https://cathode.church/@moderation/106531571770490507" ] }
+		,{ "tuple": [ "xn--p1abe3d.xn--80asehdb", "Hate speech, racism, Edgelord" ] }
+		,{ "tuple": [ "yggdrasil.social", "Hate speech, Homophobia / transphobia., TERF instance, homophobia, Edgelord" ] }
+		,{ "tuple": [ "youjo.love", "Pedos, Strong likelihood of CSAM and CSAM-adjacent material., pedophilia, holocaust denial, antivax , Edgelorddni (snowdin.town,disqordia.space,bubbletea.dev,shigusegubu.club,youjo.love)dni (youjo.love,pawoo.net)" ] }
+		,{ "tuple": [ "zztails.gay", "Hate speech, Free speech, racism, Edgelord" ] }
+]]}]}
