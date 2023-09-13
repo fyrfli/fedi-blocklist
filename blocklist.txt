@@ -1,13 +1,4 @@
-*.10minutepleroma.com
-*.activitypub-troll.cf
-*.mastodonhub.com
-*.misskey-forkbomb.cf
-*.repl.co
-*flockingbird.social
-*ignorelist*
-*kazar.ma
-*outerkosm.us
-*tweepsmap.com
+10minutepleroma.com
 13bells.com
 1611.social
 4aem.com
@@ -15,6 +6,7 @@ NoAgenda.social
 Pizzaf.art
 Raspberrypi.social
 activism.openworlds.info
+activitypub-troll.cf
 aethy.com
 affiliates.social
 akko.disqordia.space
@@ -100,6 +92,7 @@ feedseer.com
 firedragonstudios.com
 firefaithfellowship.com
 fiume.club
+flockingbird.social
 fluf.club
 foxfam.club
 freak.university
@@ -148,12 +141,14 @@ hornyjail.pro
 hunk.city
 iddqd.social
 ieji.de
+ignorelist
 intkos.link
 ioc.exchange
 jojo.singleuser.club
 jorts.horse
 justicewarrior.social
 kawa-kun.com
+kazar.ma
 kibitz.cloud
 kinky.business
 kinkyelephant.com
@@ -198,6 +193,7 @@ mastodon.coffee
 mastodon.gatewayy.net
 mastodon.lolicon
 mastodong[.]lol
+mastodonhub.com
 md.tret.jp
 memehub.eu
 merovingian.club
@@ -205,6 +201,7 @@ meta-tube.de
 midnightride.rs
 midwaytrades.com
 mirr0r.city
+misskey-forkbomb.cf
 misskey.twink.ink
 moa.mastodonhub.com
 moa.st
@@ -239,6 +236,7 @@ obo.sh
 occultist.space
 onionfarms.org
 oursocialism.today
+outerkosm.us
 outpoa.st
 parler.socialq.club
 pawlicker.com
@@ -287,6 +285,7 @@ rayn.bo
 rcsocial.net
 rdrama.cc
 rebelbase.site
+repl.co
 respublicae.eu
 retardedniggers.forsale
 riaf.xyz
@@ -364,6 +363,7 @@ syspxl.xyz
 takesama.com
 tastingtraffic.net
 tcode.kenfm.de
+tech.lgbt
 teci.world
 terrible.place
 theapex.social
@@ -384,6 +384,7 @@ truthsocial.com
 truthsocialpro.org
 tube.kenfm.de
 tube.querdenken-711.de
+tweepsmap.com
 tweets.makerbox.net
 universeodon.com
 urchan.org
@@ -406,4 +407,3 @@ xn--p1abe3d.xn--80asehdb
 yggdrasil.social
 youjo.love
 zztails.gay
-

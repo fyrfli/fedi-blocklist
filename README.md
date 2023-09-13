@@ -19,3 +19,11 @@ cat blocklist.txt | sed -e 's/$/,suspend,true,true,true/' >> new_file.csv
 ```
 
 or just use the supplied csv file.
+
+---
+
+September 2023
+- added in a python script to create an `mrf_simple.json` file capable of importing into akkoma. the resulting file is `new_mrf_simple.json` and can just be used directly from this repository. it will be updated everytime there is a change to the standard `blocklist.txt` file and it queries thebad.space for reasons (because the original list did not have reasons).
+
+to do:
+- adding a script to create a csv file the same way the akkoma file is created.

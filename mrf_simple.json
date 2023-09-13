@@ -4,12 +4,24 @@
   "value": [
     {
       "tuple": [
-        ":media_removal",
+        ":media_nsfw",
         [
           {
             "tuple": [
               "mastodon.social",
-              "CSAM etc"
+              "CSAM"
+            ]
+          },
+          {
+            "tuple": [
+              "mastodon.world",
+              "CSAM"
+            ]
+          },
+          {
+            "tuple": [
+              "mastodon.online",
+              ""
             ]
           }
         ]
@@ -17,2454 +29,320 @@
     },
     {
       "tuple": [
-        ":federated_timeline_removal",
+        ":media_removal",
         [
           {
             "tuple": [
-              "*.10minutepleroma.com",
-              "imported from firefish"
+              "mastodon.social",
+              "CSAM"
             ]
           },
           {
             "tuple": [
-              "*.activitypub-troll.cf",
-              "imported from firefish"
+              "mastodon.world",
+              ""
             ]
           },
           {
             "tuple": [
-              "*.mastodonhub.com",
-              "imported from firefish"
+              "mastodon.online",
+              ""
             ]
-          },
-          {
-            "tuple": [
-              "*.misskey-forkbomb.cf",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "*.repl.co",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "*flockingbird.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "*ignorelist*",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "*kazar.ma",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "*outerkosm.us",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "*tweepsmap.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "13bells.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "1611.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "4aem.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "NoAgenda.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "Pizzaf.art",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "Raspberrypi.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "activism.openworlds.info",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "aethy.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "affiliates.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "akko.disqordia.space",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "akko.saturno.black",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "alive.bar",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "animalliberation.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "anime.website",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "annihilation.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "anon-kenkai.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "app.kenhbit.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "asbestos.cafe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "awkward.company",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "badly.co",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "bae.st",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "bajax.us",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "banepo.st",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "baraag.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "based.directory",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "beefyboys.win",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "beepboop.ga",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "berserker.town",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "bgp.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "bikeshed.party",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "bitcoinhackers.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "bittube.video",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "blob.cat",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "boks.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "brainsoap.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "breastmilk.club",
-              "imported from firefish"
-            ]
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "tuple": [
+        ":followers_only",
+        [
           {
             "tuple": [
-              "brighteon.social",
-              "imported from firefish"
+              "mastodon.social",
+              "cos too big to fail or something"
             ]
           },
           {
             "tuple": [
-              "buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life",
-              "imported from firefish"
+              "mastodon.online",
+              "cos too big to fail or something"
             ]
           },
           {
             "tuple": [
-              "carnivore.social",
-              "imported from firefish"
+              "mastodon.world",
+              "cos too big to fail or something"
             ]
           },
           {
             "tuple": [
-              "cassone.social",
-              "imported from firefish"
+              "fosstodon.org",
+              ""
             ]
-          },
-          {
-            "tuple": [
-              "catgirl.life",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "cawfee.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "censorship.icu",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "cesko.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "chungus.cc",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "civiq.social",
-              "imported from firefish"
-            ]
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "tuple": [
+        ":accept",
+        [
           {
             "tuple": [
-              "clew.lol",
-              "imported from firefish"
+              "mastodon.art",
+              ""
             ]
           },
           {
             "tuple": [
-              "cloudflare.social",
-              "imported from firefish"
+              "rage.love",
+              ""
             ]
           },
           {
             "tuple": [
-              "cloudisland.online",
-              "imported from firefish"
+              "weirder.earth",
+              ""
             ]
           },
           {
             "tuple": [
-              "club.darknight-coffee.org",
-              "imported from firefish"
+              "ubiqueros.com",
+              ""
             ]
           },
           {
             "tuple": [
-              "clubcyberia.co",
-              "imported from firefish"
+              "easymode.im",
+              ""
             ]
           },
           {
             "tuple": [
-              "collapsitarian.io",
-              "imported from firefish"
+              "dacharycarey.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "comfyboy.club",
-              "imported from firefish"
+              "strangeobject.space",
+              ""
             ]
           },
           {
             "tuple": [
-              "contrapointsfan.club",
-              "imported from firefish"
+              "tenforward.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "counter.fedi.live",
-              "imported from firefish"
+              "social.alizas.blog",
+              ""
             ]
           },
           {
             "tuple": [
-              "couter.social",
-              "imported from firefish"
+              "botsin.space",
+              ""
             ]
           },
           {
             "tuple": [
-              "crucible.world",
-              "imported from firefish"
+              "TurtleIsland.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "cum.camp",
-              "imported from firefish"
+              "simcha.lgbt",
+              ""
             ]
           },
           {
             "tuple": [
-              "cum.salon",
-              "imported from firefish"
+              "tilde.zone",
+              ""
             ]
           },
           {
             "tuple": [
-              "cunny.finance",
-              "imported from firefish"
+              "blackqueer.life",
+              ""
             ]
           },
           {
             "tuple": [
-              "cupoftea.social",
-              "imported from firefish"
+              "zirk.us",
+              ""
             ]
           },
           {
             "tuple": [
-              "cutieverse.social",
-              "imported from firefish"
+              "chirp.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "cybercriminal.eu",
-              "imported from firefish"
+              "raphus.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "cyberfuck.club",
-              "imported from firefish"
+              "ginny.chat",
+              ""
             ]
           },
           {
             "tuple": [
-              "d-fens.systems",
-              "imported from firefish"
+              "artisan.chat",
+              ""
             ]
           },
           {
             "tuple": [
-              "darknight-coffee.org",
-              "imported from firefish"
+              "solarpunk.moe",
+              ""
             ]
           },
           {
             "tuple": [
-              "decayable.ink",
-              "imported from firefish"
+              "blahaj.zone",
+              ""
             ]
           },
           {
             "tuple": [
               "defcon.social",
-              "imported from firefish"
+              ""
             ]
           },
           {
             "tuple": [
-              "degenerates.fail",
-              "imported from firefish"
+              "mas.to",
+              ""
             ]
           },
           {
             "tuple": [
-              "dembased.xyz",
-              "imported from firefish"
+              "infosec.exchange",
+              ""
             ]
           },
           {
             "tuple": [
-              "desupost.soy",
-              "imported from firefish"
+              "fedi.software",
+              ""
             ]
           },
           {
             "tuple": [
-              "detroitriotcity.com",
-              "imported from firefish"
+              "ruby.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "devtube.dev-wiki.de",
-              "imported from firefish"
+              "godforsaken.website",
+              ""
             ]
           },
           {
             "tuple": [
-              "dingdash.com",
-              "imported from firefish"
+              "dair-community.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "dobbs.town",
-              "imported from firefish"
+              "mspsocial.net",
+              ""
             ]
           },
           {
             "tuple": [
-              "dogfood.social",
-              "imported from firefish"
+              "blacktwitter.io",
+              ""
             ]
           },
           {
             "tuple": [
-              "domo.cafe",
-              "imported from firefish"
+              "connectified.com",
+              ""
             ]
           },
           {
             "tuple": [
-              "eatthebugs.social",
-              "imported from firefish"
+              "a.gup.pe",
+              ""
             ]
           },
           {
             "tuple": [
-              "eientei.org",
-              "imported from firefish"
+              "bookwyrm.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "eldritch.cafe",
-              "imported from firefish"
+              "indiecapolypse.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "elementality.org",
-              "imported from firefish"
+              "wandering.shop",
+              ""
             ]
           },
           {
             "tuple": [
-              "emacs.sh",
-              "imported from firefish"
+              "floss.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "emaw.social",
-              "imported from firefish"
+              "fediverse.software",
+              ""
             ]
           },
           {
             "tuple": [
-              "eveningzoo.]club",
-              "imported from firefish"
+              "mastodon.social",
+              ""
             ]
           },
           {
             "tuple": [
-              "eveningzoo.club",
-              "imported from firefish"
+              "maston.online",
+              ""
             ]
           },
           {
             "tuple": [
-              "f.haeder.net",
-              "imported from firefish"
+              "fosstodon.org",
+              ""
             ]
           },
           {
             "tuple": [
-              "fedi.cybercriminal.eu",
-              "imported from firefish"
+              "mastodon.world",
+              ""
             ]
           },
           {
             "tuple": [
-              "fedi.z0ne.moe",
-              "imported from firefish"
+              "pleroma.envs.net",
+              ""
             ]
           },
           {
             "tuple": [
-              "feedseer.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "firedragonstudios.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "firefaithfellowship.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "fiume.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "fluf.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "foxfam.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freak.university",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freeatlantis.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freecumextremist.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freedomofpress.rocks",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freedomstrike.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freemarketbastard.theburning.world",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freesoftwareextremist.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freespeech.firedragonstudios.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freespeech.group",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freespeechextremist.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freetalklive.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freethinkers.lgbt",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "freewahaextremist.wtf",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "frennet.link",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "froth.zone",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "fulltermprivacy.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "furcel.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "furry.lgbt",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gab.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gameliberty.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gearlandia.haus",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "genderheretics.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gentoo.live",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "geofront.rocks",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gitmo.life",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gleasonator.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "glee.li",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "glindr.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "glowers.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "godspeed.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "gorf.pub",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "goyim.app",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "goyslop.cafe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "haeder.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "handholding.io",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "has.scammed.me",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "helladoge.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "hentai.baby",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "hidamari.apartments",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "hitchhiker.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "homoo.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "honkwerx.tech",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "hornyjail.pro",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "hunk.city",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "iddqd.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "ieji.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "intkos.link",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "ioc.exchange",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "jojo.singleuser.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "jorts.horse",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "justicewarrior.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kawa-kun.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kibitz.cloud",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kinky.business",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kinkyelephant.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kitsunemimi.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kiwifarms.cc",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kolektiva.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kompost.cz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "kurosawa.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lain.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lain.sh",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lc.imexile.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "leafposter.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "leftychan.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lewdieheaven.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lgbtfree.zone",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "liberdon.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "libertynode.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "libranet.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "libre.video",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "librenet.co.za",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "ligma.pro",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "linux.pt",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lizards.live",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "loli.pizza",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lolicon.rocks",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lolison.top",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lovingexpressions.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lucasvl.nl",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "lush.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "m.anirloli.dev",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mahodou.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "makemysarcophagus.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "maladaptive.art",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "marsey.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "masochi.st",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "masthead.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastinator.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodon.chaika.me",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodon.city",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodon.cloud",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodon.coffee",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodon.gatewayy.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodon.lolicon",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mastodong[.]lol",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "md.tret.jp",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "memehub.eu",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "merovingian.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "meta-tube.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "midnightride.rs",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "midwaytrades.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mirr0r.city",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "misskey.twink.ink",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "moa.mastodonhub.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "moa.st",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "monads.online",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "morale.ch",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mostr.pub",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mouse.services",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mstdn.io",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mstdn.jp",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mstdn.party",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mstdnandchill.fun",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mstevens.uk",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "mugicha.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "narrativerry.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "natehiggers.online",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nazi.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "neckbeard.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "needs.vodka",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "neenster.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nicecrew.digital",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nnia.space",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "noagendasocial.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "noagendasocial.nl",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "noagendatube.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nobodyhasthe.biz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "noc.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nro.io",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "ns.auction",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nukem.biz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "nya.house",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "obo.sh",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "occultist.space",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "onionfarms.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "oursocialism.today",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "outpoa.st",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "parler.socialq.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pawlicker.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pawoo.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "payfrit.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "paypig.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pedo.school",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "peertube.sharivegas.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "piazza.today",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pibvt.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pieville.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pisskey.io",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.anon-kenkai.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.gamers.exposed",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.i2p.rocks",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.smuglo.li",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.smugloli.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.thj.no",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pl.wysteriary.art",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "plagu.ee",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleroma.elementality.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleroma.miria.love",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleroma.nobodyhasthe.biz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleroma.skyshanty.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleroma.soykaf.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleroma.us",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pleromer.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pmth.us",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "poa.st",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "poast.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "poast.tv",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pokemon.men",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pol.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pornssd.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "poster.place",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "posting.lolicon.rocks",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "prospeech.space",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "pt.pube.tk",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "quanta.wiki",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "quodverum.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rage.lol",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rakket.app",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rapemeat.shop",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rapemeat.solutions",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rayn.bo",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rcsocial.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rdrama.cc",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rebelbase.site",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "respublicae.eu",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "retardedniggers.forsale",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "riaf.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rodent.live",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rojogato.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "rot.gives",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "ruinouspowe.rs",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "ryona.agency",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "santsenques.cat",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sauleau.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "saurier.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sayit.world",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "schwartzwelt.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "seal.cafe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "searchtodon.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sh.itjust.works",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "shigusegubu.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "shitpost.cloud",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "shitposter.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "shota.house",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "silliness.observer",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sinblr.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skinheads.eu",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skinheads.io",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skinheads.network",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skinheads.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skinheads.uk",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skins.gay",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skippers-bin.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "skyshanty.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "slash.cl",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sleepy.cafe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sm.shaw.app",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "smuglo.li",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sneed.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "snowdin.town",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "soc.mahodou.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "soc.ua-fediland.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.bacondarwin.uk",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.beepboop.ga",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.byoblu.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.cosmick9.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.domjh.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.eng.chat",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.erisa.party",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.getgle.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.isadati.work",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.jgc.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.lovingexpressions.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.quodverum.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.redxen.eu",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.ryumu.dev",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.shrimpcam.pw",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.syum.ai",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.teci.world",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.theredbees.be",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.tnem.dev",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.urspringer.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "social.zhongguotese.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "societal.co",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "socnet.supes.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "solagg.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "sonichu.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "space.escovan.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "spinster.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "springbo.cc",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "squid.kids",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "staging.kazar.ma",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "starnix.network",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "stereophonic.space",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "strelizia.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "stupid.moe",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "switter.at",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "syspxl.xyz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "takesama.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tastingtraffic.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tcode.kenfm.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "teci.world",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "terrible.place",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "theapex.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "theautisticinvestors.quest",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "thecitadel.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "theduran.icu",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "thepostearthdestination.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "theres.life",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "threads.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tkammer.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "toot.canberrasocial.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "toot.community",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tooters.space",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "traboone.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "trumpislovetrumpis.life",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "truthsocial.co.in",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "truthsocial.com",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "truthsocialpro.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tube.kenfm.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tube.querdenken-711.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "tweets.makerbox.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "universeodon.com",
-              "CSAM, large instance, minimal moderation, spam"
-            ]
-          },
-          {
-            "tuple": [
-              "urchan.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "varishangout.net",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "video.nobodyhasthe.biz",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "videos.martinezperspective.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "vrij.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wg.is",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "whinge.house",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "whinge.town",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wideboys.org",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wiki-tube.de",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wildebeest.tooot.app",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wintermute.fr.to",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wolfgirl.bar",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "worm.pink",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "wurm.host",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "www.bigguys.club",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "xn--p1abe3d.xn--80asehdb",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "yggdrasil.social",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "youjo.love",
-              "imported from firefish"
-            ]
-          },
-          {
-            "tuple": [
-              "zztails.gay",
-              "imported from firefish"
+              "gts.fyrfli.social",
+              ""
             ]
           }
         ]
